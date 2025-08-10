@@ -113,13 +113,18 @@ I am currently the IT Manager at Epitaxial Marketing, passionate about project m
 
 ---
 
-## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nasif17&theme=dracula&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Nasif17&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasif17&layout=compact&theme=dracula" alt="Top Languages"/>
-</div>
+
+# 📊 GitHub Stats 📊
+
+| **Streak Stats** | **General Stats** |
+|------------------|-------------------|
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nasif17&theme=blue_green&hide_border=false) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nasif17&show_icons=true&theme=blue-green&hide_border=true) |
+
+| **Most Used Languages** | **Profile Summary** |
+|------------------------|---------------------|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasif17&layout=compact&theme=blue-green) | ![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nasif17&theme=blue_green) |
+
 
 ---
 ## 🧑‍🔬 Research & Expertise
