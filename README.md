@@ -24,23 +24,63 @@ I am currently the IT Manager at Epitaxial Marketing, passionate about project m
 
 ## 🔥 Skills
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/internet-of-things.png" alt="IoT" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
-  <br/>
+<div align="center" style="background-color:#1e1e1e; padding:20px; border-radius:12px;">
   
-  <img src="https://img.icons8.com/fluency/48/data-configuration.png" alt="Data Analysis" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <!-- Row 1 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  
+  <br/><br/>
+  
+  <!-- Row 2 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" />
+<img src="https://worldvectorlogo.com/logos/tailwind-css-1.svg" alt="Tailwind CSS Logo with Wordmark" width="120" />
+ <img width="40"  alt="Unofficial_JavaScript_logo_2 svg" src="https://github.com/user-attachments/assets/41b96477-9bbd-405e-8749-f8cb956fae7b" />
+
+
+
+
+
+
+
+>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  
+
+  
+  <br/><br/>
+  
+  <!-- Row 3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40" />
+
  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" />
+
+
+
+  
+  <br/><br/>
+  
+  <!-- Row 4 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino Logo" width="40" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" width="40" />
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" />
+  
 </div>
 
 ---
@@ -82,6 +122,35 @@ I am currently the IT Manager at Epitaxial Marketing, passionate about project m
 </div>
 
 ---
+## 🧑‍🔬 Research & Expertise
+
+As a passionate researcher, my work spans across Machine Learning, Computer Vision, Data Analysis, and IoT systems. My expertise includes developing and applying advanced machine learning models in diverse real-world domains, including language identification, medical imaging, smart transportation, and property valuation.
+
+### 🔬 Research Topics
+
+- **Automatic Language Identification of Ethnic Texts in Bangladesh Using Machine Learning Techniques**  
+  Developed supervised learning models for distinguishing ethnic languages, leveraging NLP feature extraction and classification algorithms.
+
+- **Self-Supervised Learning for Medical Image Analysis: A Systematic Review**  
+  Conducted a comprehensive review of self-supervised methods for medical imaging, focusing on representation learning, anomaly detection, and segmentation using CNNs, Transformers, and autoencoders.
+
+- **Predicting Real Estate Prices in Major Bangladeshi Cities: A Machine Learning Approach Using XGBoost**  
+  Built robust regression models with XGBoost to forecast property prices, utilizing feature engineering and data visualization for actionable insights.
+
+- **Arduino Based Smart Rickshaw Control System**  
+  Designed and implemented smart control systems for rickshaws using Arduino and IoT sensors, integrating ML models for safety and efficiency.
+
+---
+
+### 🏆 My Machine Learning & Research Expertise
+
+- **Model Development:** Proficient in supervised, unsupervised, and self-supervised learning, including XGBoost, Random Forest, CNNs, Transformers, and Autoencoders.
+- **NLP & Text Analytics:** Specialized in language identification, sentiment analysis, and text classification for ethnic and low-resource languages.
+- **Medical Imaging:** Experienced in deep learning for image segmentation, classification, and anomaly detection.
+- **IoT & Embedded Systems:** Skilled in Arduino programming and integrating ML models with IoT devices for smart automation.
+- **Data Analytics & Visualization:** Expertise in Python, Pandas, Matplotlib, and advanced data preprocessing techniques.
+
+Feel free to connect for collaborations in Machine Learning, Computer Vision, and IoT research!
 
 ## 🧑‍💻 Tech Stack
 
