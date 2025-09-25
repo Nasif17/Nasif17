@@ -41,7 +41,7 @@ I am currently the IT Manager at Epitaxial Marketing, passionate about project m
   
   <!-- Row 2 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" />
-<img src="https://worldvectorlogo.com/logos/tailwind-css-1.svg" alt="Tailwind CSS Logo with Wordmark" width="120" />
+<img src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" alt="Tailwind CSS Logo with Wordmark" width="120" />
  <img width="40"  alt="Unofficial_JavaScript_logo_2 svg" src="https://github.com/user-attachments/assets/41b96477-9bbd-405e-8749-f8cb956fae7b" />
 
 
