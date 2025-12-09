@@ -119,7 +119,7 @@ I am currently the IT Manager at Epitaxial Marketing, passionate about project m
 
 | **Streak Stats** | **General Stats** |
 |------------------|-------------------|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nasif17&theme=blue-green)](https://git.io/streak-stats) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nasif17&theme=blue-green) |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nasif17&theme=blue-green)](https://git.io/streak-stats)| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nasif17&theme=blue-green) |
 
 | **Most Used Languages** | **Profile Summary** |
 |------------------------|---------------------|
